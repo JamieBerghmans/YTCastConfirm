@@ -1,0 +1,9 @@
+Package: com.devvix.ytcastconfirm
+Name: YTCastConfirm
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Devvix
+Author: Devvix
+Section: Tweaks
