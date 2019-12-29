@@ -7,3 +7,6 @@ Description: An awesome MobileSubstrate tweak!
 Maintainer: Devvix
 Author: Devvix
 Section: Tweaks
+Icon: https://repo.devvix.com/assets/TweakIcons/ytcastconfirmicon.jpg
+Depiction: https://repo.devvix.com/depictions/?p=com.devvix.ytcastconfirm
+SileoDepiction: https://repo.devvix.com/sileodepictions/com.devvix.ytcastconfirm/depiction.json
